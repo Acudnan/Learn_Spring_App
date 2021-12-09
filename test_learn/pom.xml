@@ -15,6 +15,7 @@
 	<description>learn project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
+		<start-class>com.acudnan.app</start-class>
 	</properties>
 	<dependencies>
 		<dependency>
